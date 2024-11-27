@@ -4,4 +4,4 @@
 
 Upload some custom made skins in minecraft education!
 
-Link to the skin packer: https://mattheffnt.github.io/skin-packer/!
+Link to the skin packer: https://eternalxlks.github.io/skin-uploader/!
